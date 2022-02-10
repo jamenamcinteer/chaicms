@@ -34,7 +34,7 @@
     "history": "4.7.2",
     "moment": "2.22.2",
     "mongoose": "^5.4.17",
-    "node-sass": "4.9.4",
+    "node-sass": "7.0.0",
     "normalize.css": "8.0.0",
     "numeral": "2.0.6",
     "passport": "^0.4.0",
